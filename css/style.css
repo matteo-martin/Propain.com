@@ -1,0 +1,91 @@
+ @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300&family=Roboto+Slab:wght@722&display=swap");
+ @import url("components/container.css");
+ @import url("components/Banner.css");
+ @import url("components/card.css");
+ @import url("components/bike.css");
+
+
+body{
+    background-color: rgb(200, 200, 200);
+}
+
+
+ bod{
+ 	font-family: 'roboto+slab', serif;
+ 	font-size: 20px;
+    margin: 0px;
+ }
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+div{
+    text-align: center ;
+}
+
+img{
+    position:center ;
+    margin: 15px 15px;
+
+}
+
+p{
+    color: white;
+    font-size: 30px;
+    position: center;
+} 
+
+.list-inline img {
+    display: inline;
+    padding: 10px;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+}
+
+.text-aline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 50px;
+    position: center;
+    background-color: white;
+
+}
+
+h3{
+    text-align: center;
+    font-size: 50px;
+    color: grey;
+}
+
+
+.text-aline{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: ;
+    padding-left: auto;
+    border-radius: 50px;
+    position: center;
+    object-fit: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
